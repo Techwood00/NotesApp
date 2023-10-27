@@ -2,6 +2,8 @@
 
 Introducing NotesApp: A sleek Android companion designed to capture your thoughts effortlessly. Developed with modern Android technologies, this app employs Room Database for seamless data storage. Experience an intuitive UI with notes displayed in a dynamic staggered grid layout, each adorned with distinctive colors, and enriched with timestamps for your convenience. Edit, search, and delete notes with ease - this app streamlines your note-taking experience.
 
+https://github.com/Techwood00/NotesApp/assets/149005562/d8b96e60-8a00-4b6d-8464-232c0d8ab3ad
+
 ---
 
 # Features ✨
@@ -21,6 +23,7 @@ Introducing NotesApp: A sleek Android companion designed to capture your thought
 - **Minimum Android Version**: 26
 - **Target Android Version**: 33
 
+
 ---
 
 # Installation 🚀
@@ -31,7 +34,7 @@ Introducing NotesApp: A sleek Android companion designed to capture your thought
 
 ---
 
-# Usage 🚀
+# Usage 🙌
 
 Begin your note-taking journey with NotesApp! Start by adding your thoughts and ideas effortlessly. The staggered grid layout provides a visually pleasing overview of your notes. Edit them at will, and watch as they seamlessly sync with the database. Looking for a specific note? Utilize the powerful search function to find it in an instant. To remove a note, simply long-press and declutter your collection. Let NotesApp be your trusted companion in capturing and organizing your ideas!
 
